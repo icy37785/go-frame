@@ -1,0 +1,4 @@
+HTTP:
+  Addr: :3000
+  ReadTimeout: 5
+  WriteTimeout: 10
